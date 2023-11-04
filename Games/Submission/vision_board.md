@@ -20,6 +20,6 @@ Skills
 - Insert a meme/image that represents the rewards and benefits of achieving your team's goals in Game of Learners
 
 ## Conclusion
-- Insert a meme/image that represents your team's excitement and enthusiasm for Game of Learners
 
-Feel free to modify and customize this template as needed to fit your specific team's goals and objectives! But this is just a guide on what you can inlude in the board
+The download project is a revolutionary software tool that enables equitable access to learning resources for students and educators in rural and remote areas of Kenya, where internet connectivity is scarce. By providing the power to print and access educational content from a comprehensive database system, the download project bridges the educational divide and creates an empowered and connected nation.
+
