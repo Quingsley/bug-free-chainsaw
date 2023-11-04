@@ -9,12 +9,10 @@ Our mission is clear: to bridge the educational divide by providing equitable ac
 Through this solution, we aim to create an educational ecosystem that empowers every learner and educator in Kenya, regardless of their location or economic status. Our journey towards an educated, empowered, and connected nation begins with this endeavor. Join us in this noble cause as we embark on a journey to transform the educational landscape for the better.
 
 ## Goals
-- Insert a meme/image that represents your team's primary goal for Game of Learners
-- Insert a meme/image that represents your team's secondary goal for Game of Learners
-- Insert a meme/image that represents your team's stretch goal for Game of Learners
-Skills
-- Insert a meme/image that represents the skills you want to learn and develop during Game of Learners
-- Insert a meme/image that represents the skills you want to improve during Game of Learners
+Primary goal - Populate a web system with diverse range of education system
+Secondary goal- Ensure accesibility and printability of the resources
+Skills to be learned during the development process- Data Mangaement and security
+Skills to be improved during the development process - Software and Web development
 
 ## Collaboration
 - Insert a meme/image that represents your team's communication and collaboration strategy for Game of Learners
