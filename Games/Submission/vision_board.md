@@ -1,4 +1,4 @@
-# [Team_Name] Vision Board
+# Bytes Vision Board
 
 ## Introduction
 In a world driven by knowledge and education, access to learning resources is a fundamental right that should be extended to all, regardless of geographical constraints. In the heart of Kenya, where the landscape is often marked by remote and underserved rural areas, we face a significant challenge. Many students and educators find themselves cut off from the abundant educational materials available to their urban counterparts. It is in the face of this challenge that we present an innovative solution, a beacon of hope for countless students and teachers.
